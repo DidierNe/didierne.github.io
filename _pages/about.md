@@ -23,8 +23,8 @@ I am developing a deep learning pipeline to denoise visual field tests using mul
 ## 💼 Past Experience
 
 **Data Science & Applied Math Intern**  
-*Rolex SA, Geneva (2024)*  
-Worked on computer vision tasks in a confidential industrial context. Focused on preprocessing, model design, and defect detection under strong data privacy and security constraints.
+*Rolex SA, Bienne (2024)*  
+Worked on computer vision tasks in a confidential industrial context. Focused on preprocessing, model design, under strong data privacy and security constraints.
 
 ---
 
