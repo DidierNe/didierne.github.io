@@ -8,7 +8,7 @@ author_profile: true
 ## 👋 Hi, I’m Didier Neuenschwander
 
 I’m a robotics engineer from EPFL (Switzerland), currently completing my master’s thesis at the Harvard Ophthalmology AI Lab.  
-My work focuses on deep learning, computer vision, and medical imaging — especially in real-world conditions with limited data, uncertainty, and clinical constraints.
+I focus on deep learning, computer vision, and medical imaging — particularly in real-world settings where data is limited and uncertainty is high.
 
 ---
 
@@ -16,22 +16,23 @@ My work focuses on deep learning, computer vision, and medical imaging — espec
 
 **Visual Field Denoising in Glaucoma**  
 *Harvard Ophthalmology AI Lab (2025)*  
-I am developing a deep learning pipeline to denoise visual field tests using multimodal data (OCT + clinical fields), aiming to improve robustness and diagnostic value in glaucoma care.
+Developing a multimodal deep learning pipeline to denoise visual field tests using OCT scans and clinical data.  
+Goal: enhance diagnostic robustness and interpretability for glaucoma care.
 
 ---
 
-## 💼 Past Experience
+## 💼 Industry Experience
 
 **Data Science & Applied Math Intern**  
 *Rolex SA, Bienne (2024)*  
-Worked on computer vision tasks in a confidential industrial context. Focused on preprocessing, model design, under strong data privacy and security constraints.
+Worked on computer vision for quality control in a confidential industrial setting.  
+Focused on data preprocessing and model design under strict privacy constraints.
 
 ---
 
 ## 📄 Curriculum Vitae
 
-📄 [Download my CV (PDF)](/assets/files/CV_Didier_Neuenschwander.pdf)
-
+📄 [Download my CV (PDF)](/assets/files/CV_Didier_Neuenschwander.pdf)  
 👁 [Harvard Lab Profile](https://wang.hms.harvard.edu/team/didier-neuenschwander/)
 
 ---
@@ -44,4 +45,4 @@ Worked on computer vision tasks in a confidential industrial context. Focused on
 
 ---
 
-*Portfolio hosted with [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and GitHub Pages.*
+<small>*Site powered by [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and GitHub Pages.*</small>
