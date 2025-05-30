@@ -25,7 +25,7 @@ Goal: enhance diagnostic robustness and interpretability for glaucoma care.
 
 **Data Science & Applied Math Intern**  
 *Rolex SA, Bienne (2024)*  
-Worked on computer vision for quality control in a confidential industrial setting.  
+Worked on computer vision  a confidential industrial setting.  
 Focused on data preprocessing and model design under strict privacy constraints.
 
 ---
@@ -35,16 +35,8 @@ Focused on data preprocessing and model design under strict privacy constraints.
 📄 [Download my CV (PDF)](/assets/files/CV_Didier_Neuenschwander.pdf)  
 
 
----
-
-## 🔗 Links
-
-<i class="fas fa-university"></i> [Harvard Profile](https://wang.hms.harvard.edu/team/didier-neuenschwander/) • 
-<i class="fab fa-github"></i> [GitHub](https://github.com/DidierNe) • 
-<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/didier-neuenschwander-501a15291/) • 
-<i class="fas fa-envelope"></i> [Email](mailto:neuenschwander.didier@gmail.com)
 
 
----
 
-<small>*Site powered by [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) and GitHub Pages.*</small>
+
+
