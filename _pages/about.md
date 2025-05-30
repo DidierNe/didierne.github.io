@@ -33,15 +33,17 @@ Focused on data preprocessing and model design under strict privacy constraints.
 ## 📄 Curriculum Vitae
 
 📄 [Download my CV (PDF)](/assets/files/CV_Didier_Neuenschwander.pdf)  
-👁 [Harvard Lab Profile](https://wang.hms.harvard.edu/team/didier-neuenschwander/)
+
 
 ---
 
 ## 🔗 Links
 
-- 🔬 [GitHub](https://github.com/DidierNe)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/didier-neuenschwander-501a15291/)  
-- ✉️ [Email](mailto:neuenschwander.didier@gmail.com)
+<i class="fas fa-university"></i> [Harvard Profile](https://wang.hms.harvard.edu/team/didier-neuenschwander/) • 
+<i class="fab fa-github"></i> [GitHub](https://github.com/DidierNe) • 
+<i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/didier-neuenschwander-501a15291/) • 
+<i class="fas fa-envelope"></i> [Email](mailto:neuenschwander.didier@gmail.com)
+
 
 ---
 
