@@ -4,14 +4,13 @@ description: >-
   Robotics & AI engineer – Harvard Ophthalmology | EPFL graduate.
   Specializing in computer vision, deep learning, and medical imaging.
 
-twitter_username: ""
 github_username: DidierNe
 minimal_mistakes_skin: dark
 search: true
 
-# Build settings
-markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+markdown: kramdown
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
@@ -24,7 +23,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -67,21 +65,9 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:neuenschwander.didier@gmail.com"
 
-defaults:More actions
-  # _posts
+defaults:
   - scope:
       path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
       type: pages
     values:
       layout: single
@@ -90,14 +76,3 @@ defaults:More actions
 nav:
   - title: "About"
     url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "CV"
-    url: /cv/
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
