@@ -26,11 +26,17 @@ Focused on data preprocessing and model design under strict privacy and security
 
 
 
-## 🧠 Selected Projects
+## Selected Projects
 
 ### Visual Field Denoising (Master Thesis)  
-🧠 Deep learning model combining RNFLT and visual field data to reconstruct clean perimetry maps and improve glaucoma progression analysis.  
-*This work is ongoing at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/) and may lead to a publication — details withheld for confidentiality.*
+Ongoing research project at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/), focused on unsupervised and semi-supervised learning to denoise sparse clinical signals.
+
+The goal is to improve visual field (VF) quality by suppressing structured noise and learning meaningful representations through a multimodal deep learning pipeline.
+
+Evaluation focuses on reconstruction fidelity, robust regression metrics, and longitudinal consistency with anatomical structures.
+
+*Research in progress — models and evaluation pipelines are actively under development.*
+
 
 ---
 
@@ -63,10 +69,9 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 
 
 ## 🔧 Other Projects
-
-- **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
 - **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets.  
   [📄 Read Report](/assets/files/EE559_Group_27_Mini_Project.pdf){:target="_blank"} &nbsp;&nbsp; [📊 View Poster](/assets/files/EE559_poster_group_27.pptx){:target="_blank"}
+- **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
 - **Locomotor Modeling**: Simulated salamander locomotion using CPG models in Python & MuJoCo *(4 ECTS, grade 5.5/6)*.
 - **Gait Analysis**: Compared gait patterns using EMG & kinematic data *(4 ECTS, grade 5.5/6)*.
 - **Sudoku Solver**: Program solving sudoku puzzles from images using Matlab, LabVIEW, and C *(3 ECTS, grade 5.75/6)*.
@@ -77,11 +82,11 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 
 **EPFL – École Polytechnique Fédérale de Lausanne**  
 *Master in Robotics (2022–2025, in progress)*  
-*Bachelor in Microengineering (2018–2022)*
+*Bachelor in Mechanical engineering (2018–2022)*
 
 ---
 
-Personal Contact:  
+Academical Contact:  
 - Harvard: [dneuenschwander@meei.harvard.edu](mailto:dneuenschwander@meei.harvard.edu)  
 - EPFL: [didier.neuenschwander@epfl.ch](mailto:didier.neuenschwander@epfl.ch)
 
