@@ -43,7 +43,7 @@ Focused on data preprocessing and model design under strict privacy constraints.
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <h3>Mini-Segway Robot (Bachelor Capstone Project)</h3>
+    <h3>Mini-Segway Robot (Bachelor Project)</h3>
     <p>
       Designed a self-balancing two-wheeled robot from scratch in a 4-person team.<br><br>
       <strong>Contributions:</strong><br>
@@ -54,7 +54,7 @@ Focused on data preprocessing and model design under strict privacy constraints.
     The robot was able to balance autonomously.</em></p>
   </div>
   <div>
-    <img src="/assets/images/segway/segway_complete.jpg" alt="Mini Segway robot" width="200"/>
+    <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="200"/>
   </div>
 </div>
 
