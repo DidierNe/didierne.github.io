@@ -5,11 +5,10 @@ permalink: /
 author_profile: true
 ---
 
-# Didier Neuenschwander
-
-Robotics & AI engineer — currently completing my Master's thesis at Harvard Ophthalmology (until Sept. 2025)  
+Robotics engineer graduating in Sept. 2025 — currently completing my Master’s thesis at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/)  
 EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-world impact.
 
+💼 Open to full-time opportunities starting Fall 2025
 
 
 ---
