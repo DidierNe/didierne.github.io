@@ -40,6 +40,14 @@ Focused on data preprocessing and model design under strict privacy constraints.
 
 ### Hate Speech Detection  
 💬 NLP classifier trained on social media content using a DistilBERT model with interpretable attention maps.
+### Mini-Segway (Bachelor Capstone Project)
+
+🧲 Designed and built a self-balancing two-wheel robot from scratch in a 3-person team.  
+I was in charge of the embedded system (PID control, sensor fusion, motor control, hardware integration).
+
+<p align="center">
+  <img src="/assets/images/segway_complete.jpg" alt="Mini Segway" width="500"/>
+</p>
 
 ---
 
