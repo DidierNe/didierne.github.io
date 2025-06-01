@@ -38,15 +38,12 @@ Focused on data preprocessing and model design under strict privacy and security
 Developed a waterproof experimental setup to record ground reaction forces during amphibious locomotion of salamanders in 3D.  
 *Master’s Semester Project (10 ECTS, grade 6/6)*  
 **Skills:** Embedded systems, data acquisition, hardware prototyping.
+<p align="center">
+  <img src="/assets/images/pds_biorob.jpg" alt="Mini Segway robot" width="300"/>
+</p>
 
----
 
-### Microrobot Tendon Control  
-Designed a control interface for a tendon-driven microrobot navigating the brain.  
-*Master’s Semester Project (10 ECTS, grade 5.75/6)*  
-**Skills:** C++/Qt UI, electronics, control algorithms.
 
----
 
 ### Mini-Segway Robot (Bachelor Project)  
 Built a self-balancing two-wheeled robot from scratch with a 4-person team.  
@@ -58,7 +55,12 @@ Built a self-balancing two-wheeled robot from scratch with a 4-person team.
   <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
 </p>
 
----
+
+### Microrobot Tendon Control  
+Designed a control interface for a tendon-driven microrobot navigating the brain.  
+*Master’s Semester Project (10 ECTS, grade 5.75/6)*  
+**Skills:** C++/Qt UI, electronics, control algorithms.
+
 
 ## 🔧 Other Projects
 
