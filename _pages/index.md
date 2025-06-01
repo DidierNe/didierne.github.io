@@ -10,8 +10,7 @@ author_profile: true
 Robotics & AI engineer — currently completing my Master's thesis at Harvard Ophthalmology (until Sept. 2025)  
 EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-world impact.
 
-[📄 Download my CV](../assets/cv_didier.pdf)  
-[🐙 GitHub](https://github.com/DidierNe) • [💼 LinkedIn](https://linkedin.com/in/didier-neuenschwander-501a15291) • [✉️ Email](mailto:neuenschwander.didier@gmail.com)
+
 
 ---
 
@@ -21,13 +20,12 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 *Feb 2025 – Aug 2025, Boston, USA*  
 Master's thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.
 
-**Rolex SA — Data Science Intern**  
-*2024, Geneva, Switzerland*  
-Developed a deep learning pipeline to detect defects in watch mechanisms (CNNs, anomaly detection, GradCAM).
+**Data Science & Applied Math Intern**  
+Rolex SA, Bienne (2024)
+Worked on computer vision a confidential industrial setting.
+Focused on data preprocessing and model design under strict privacy constraints.
 
-**Idiap Research Institute — NLP Project**  
-*2023, Martigny, Switzerland*  
-Fine-tuned DistilBERT for hate speech detection while balancing ethical and free speech considerations.
+
 
 ---
 
