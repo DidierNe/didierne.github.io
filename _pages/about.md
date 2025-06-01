@@ -11,6 +11,5 @@ Outside of research, I enjoy reading, skiing, running, and skateboarding. I’ve
 
 I’m someone who loves to travel and connect with people from different backgrounds. I’ve done backpacking in Asia, and I chose to do my Master’s thesis in Boston not just for the academic opportunity, but also for the chance to explore a new culture and community. Meeting new people and learning from diverse perspectives is something that drives me — both personally and professionally.
 
-I completed my military service in Switzerland as an **artillery fire direction soldier**, and I speak French (native), English (C1+), and German (B1–B2).
-
+I completed my military service in Switzerland as an **artillery fire direction soldier**,I'm fluent in French (native), confident in English (C1), and conversational in German (B1).  
 📫 Feel free to reach out if you'd like to connect or collaborate!
