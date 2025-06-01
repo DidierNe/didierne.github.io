@@ -37,8 +37,6 @@ Focused on data preprocessing and model design under strict privacy constraints.
 ### Salamander Robot Force Platform  
 🐾 Designed a waterproof setup to measure ground reaction forces during amphibious locomotion in a bio-inspired robot.
 
-### Watch Defect Detection  
-🔧 Unsupervised anomaly detection on watch components using deep learning (autoencoders, Grad-CAM) during internship at Rolex.
 
 ### Hate Speech Detection  
 💬 NLP classifier trained on social media content using a DistilBERT model with interpretable attention maps.
