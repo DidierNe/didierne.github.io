@@ -26,43 +26,48 @@ Focused on data preprocessing and model design under strict privacy and security
 
 
 
-
 ## 🧠 Selected Projects
 
 ### Visual Field Denoising (Master Thesis)  
-🧠 Deep learning model combining RNFLT and VF inputs to reconstruct clean perimetry maps for glaucoma progression analysis.
+🧠 Deep learning model combining RNFLT and visual field data to reconstruct clean perimetry maps and improve glaucoma progression analysis.  
+*This work is ongoing at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/) and may lead to a publication — details withheld for confidentiality.*
 
-### Salamander Robot Force Platform  
-🐾 Designed a waterproof setup to measure ground reaction forces during amphibious locomotion in a bio-inspired robot.
+---
 
+### Salamander Locomotion Setup  
+Developed a waterproof experimental setup to record ground reaction forces during amphibious locomotion of salamanders in 3D.  
+*Master’s Semester Project (10 ECTS, grade 6/6)*  
+**Skills:** Embedded systems, data acquisition, hardware prototyping.
 
-### Hate Speech Detection  
-💬 NLP classifier trained on social media content using a DistilBERT model with interpretable attention maps.
+---
 
-### Mini-Segway Robot (Bachelor Project)
+### Microrobot Tendon Control  
+Designed a control interface for a tendon-driven microrobot navigating the brain.  
+*Master’s Semester Project (10 ECTS, grade 5.75/6)*  
+**Skills:** C++/Qt UI, electronics, control algorithms.
 
-Designed a self-balancing two-wheeled robot from scratch in a 4-person team.
+---
 
-**Contributions:**
-– Control design  
-– Electronics integration
-
+### Mini-Segway Robot (Bachelor Project)  
+Built a self-balancing two-wheeled robot from scratch with a 4-person team.  
+**Contributions:** Control system design and electronics integration.  
 *Grade: 5.75 / 6 – 5 ECTS*  
-*The robot was able to balance autonomously.*
+*The robot was able to autonomously stand and balance.*
 
 <p align="center">
   <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
 </p>
 
-
+---
 
 ## 🔧 Other Projects
 
-- **Mini Segway (Bachelor Project)**: Designed a self-balancing vehicle with PID control and embedded electronics.
 - **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
-- **GANs & VAEs**: Used generative models to simulate noisy VF data for training robustness.
-- **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets (HateXplain, HASOC) — *F1-score 0.87*  
+- **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets.  
   [📄 Read Report](/assets/files/EE559_Group_27_Mini_Project.pdf){:target="_blank"} &nbsp;&nbsp; [📊 View Poster](/assets/files/EE559_poster_group_27.pptx){:target="_blank"}
+- **Locomotor Modeling**: Simulated salamander locomotion using CPG models in Python & MuJoCo *(4 ECTS, grade 5.5/6)*.
+- **Gait Analysis**: Compared gait patterns using EMG & kinematic data *(4 ECTS, grade 5.5/6)*.
+- **Sudoku Solver**: Program solving sudoku puzzles from images using Matlab, LabVIEW, and C *(3 ECTS, grade 5.75/6)*.
 
 ---
 
@@ -74,5 +79,8 @@ Designed a self-balancing two-wheeled robot from scratch in a 4-person team.
 
 ---
 
-_Last updated: {{ "now" | date: "%B %Y" }}_
+Personal Contact:  
+- Harvard: [dneuenschwander@meei.harvard.edu](mailto:dneuenschwander@meei.harvard.edu)  
+- EPFL: [didier.neuenschwander@epfl.ch](mailto:didier.neuenschwander@epfl.ch)
 
+_Last updated: {{ "now" | date: "%B %Y" }}_
