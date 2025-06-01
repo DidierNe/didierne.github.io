@@ -11,8 +11,6 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 💼 Open to full-time opportunities starting Fall 2025
 
 
----
-
 ## 🔬 Experience
 
 **Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
@@ -28,7 +26,6 @@ Focused on data preprocessing and model design under strict privacy and security
 
 
 
----
 
 ## 🧠 Selected Projects
 
@@ -58,13 +55,14 @@ Designed a self-balancing two-wheeled robot from scratch in a 4-person team.
 </p>
 
 
----
 
 ## 🔧 Other Projects
 
 - **Mini Segway (Bachelor Project)**: Designed a self-balancing vehicle with PID control and embedded electronics.
 - **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
 - **GANs & VAEs**: Used generative models to simulate noisy VF data for training robustness.
+- **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets (HateXplain, HASOC) — *F1-score 0.87*  
+  [📄 Read Report](/assets/files/EE559_Group_27_Mini_Project.pdf){:target="_blank"} &nbsp;&nbsp; [📊 View Poster](/assets/files/EE559_poster_group_27.pptx){:target="_blank"}
 
 ---
 
