@@ -17,12 +17,14 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 
 **Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
 *Feb 2025 – Aug 2025, Boston, USA*  
-Master's thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.
+Master’s thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.  
+Also contributing to collaborative lab projects on medical LLMs and augmented reality (Meta/Aria glasses), with a focus on data preparation and experimental support.
 
-**Data Science & Applied Math Intern**  
-Rolex SA, Bienne (2024)
-Worked on computer vision a confidential industrial setting.
-Focused on data preprocessing and model design under strict privacy constraints.
+**Data Science & Applied Mathematics Intern**  
+*Rolex SA, Bienne (2024)*  
+Worked on computer vision in a highly confidential industrial setting.  
+Focused on data preprocessing and model design under strict privacy and security constraints.
+
 
 
 
@@ -52,7 +54,7 @@ Designed a self-balancing two-wheeled robot from scratch in a 4-person team.
 *The robot was able to balance autonomously.*
 
 <p align="center">
-  <img src="/assets/images/segway/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
+  <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
 </p>
 
 
