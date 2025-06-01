@@ -5,38 +5,12 @@ layout: single
 author_profile: true
 ---
 
-## 👋 Hi, I’m Didier Neuenschwander
+I'm a Swiss engineering student from the Nord Vaudois region, currently completing my Master's in Robotics at EPFL. My academic interests lie in computer vision and AI, especially when applied to real-world challenges that can have concrete impact — such as in healthcare.
 
-I’m a robotics engineer from EPFL (Switzerland), currently completing my master’s thesis at the Harvard Ophthalmology AI Lab.  
-I focus on deep learning, computer vision, and medical imaging — particularly in real-world settings where data is limited and uncertainty is high.
+Outside of research, I enjoy reading, skiing, running, and skateboarding. I’ve always liked building things myself, often tinkering with electronics or side projects just for fun.
 
----
+I’m someone who loves to travel and connect with people from different backgrounds. I’ve done backpacking in Asia, and I chose to do my Master’s thesis in Boston not just for the academic opportunity, but also for the chance to explore a new culture and community. Meeting new people and learning from diverse perspectives is something that drives me — both personally and professionally.
 
-## 🧠 Current Research
+I completed my military service in Switzerland as an **artillery fire direction soldier**, and I speak French (native), English (C1+), and German (B1–B2).
 
-**Visual Field Denoising in Glaucoma**  
-*Harvard Ophthalmology AI Lab (2025)*  
-Developing a multimodal deep learning pipeline to denoise visual field tests using OCT scans and clinical data.  
-Goal: enhance diagnostic robustness and interpretability for glaucoma care.
-
----
-
-## 💼 Industry Experience
-
-**Data Science & Applied Math Intern**  
-*Rolex SA, Bienne (2024)*  
-Worked on computer vision  a confidential industrial setting.  
-Focused on data preprocessing and model design under strict privacy constraints.
-
----
-
-## 📄 Curriculum Vitae
-
-📄 [Download my CV (PDF)](/assets/files/CV_Didier_Neuenschwander.pdf)  
-
-
-
-
-
-
-
+📫 Feel free to reach out if you'd like to connect or collaborate!
