@@ -41,19 +41,19 @@ Focused on data preprocessing and model design under strict privacy constraints.
 ### Hate Speech Detection  
 💬 NLP classifier trained on social media content using a DistilBERT model with interpretable attention maps.
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
     <h3>Mini-Segway Robot (Bachelor Project)</h3>
-    <p>
-      Designed a self-balancing two-wheeled robot from scratch in a 4-person team.<br><br>
-      <strong>Contributions:</strong><br>
-      – Control design<br>
-      – Electronics integration
-    </p>
+    <p>Designed a self-balancing two-wheeled robot from scratch in a 4-person team.</p>
+
+    <p><strong>Contributions:</strong><br>
+    – Control design<br>
+    – Electronics integration</p>
+
     <p><em>Grade: 5.75 / 6 – 5 ECTS<br>
     The robot was able to balance autonomously.</em></p>
   </div>
-  <div>
+  <div style="margin-top: 25px;">
     <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="200"/>
   </div>
 </div>
