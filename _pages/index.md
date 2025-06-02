@@ -18,8 +18,8 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 Master’s thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.  
 Also contributing to collaborative lab projects on medical LLMs and augmented reality (Meta/Aria glasses), with a focus on data preparation and experimental support.
 
-**Data Science & Applied Mathematics Intern**  
-*Rolex SA, Bienne (2024)*  
+**Data Science & Applied Mathematics Intern @ Rolex SA**  
+*Aug 2024 - Feb 2025, Bienne, Switzerland*  
 Worked on computer vision in a highly confidential industrial setting.  
 Focused on data preprocessing and model design under strict privacy and security constraints.
 
