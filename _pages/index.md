@@ -54,10 +54,10 @@ Developed a waterproof experimental setup to record ground reaction forces durin
 
 
 
-- ### Mini-Segway Robot (Bachelor Project)  
+- ### Mini-Segway Robot
 Built a self-balancing two-wheeled robot from scratch with a 4-person team.  
 **Contributions:** Control system design and electronics integration.  
-*Grade: 5.75 / 6 – 5 ECTS*  
+*Bachelor Project (Grade: 5.75 / 6 – 5 ECTS)*  
 *The robot was able to autonomously stand and balance.*
 
 <p align="center">
@@ -71,7 +71,7 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 **Skills:** C++/Qt UI, electronics, control algorithms.
 
 
-##  Other Projects
+##  Other Group Projects
 - **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets.  
   [📄 Read Report](/assets/files/EE559_Group_27_Mini_Project.pdf){:target="_blank"} &nbsp;&nbsp; [📊 View Poster](/assets/files/EE559_poster_group_27.pptx){:target="_blank"}
 - **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
