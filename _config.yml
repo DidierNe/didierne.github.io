@@ -34,7 +34,9 @@ collections:
 author:
   name   : "Didier Neuenschwander"
   avatar : "/assets/images/profile.jpg"
-  bio: "Robotics engineer focused on computer vision and real-world challenges.  \ Open to full-time opportunities starting September 2025."
+  bio: "Robotics engineer focused on computer vision and real-world challenges.' 
+  
+  '💼 Open to full-time opportunities starting September 2025."
   location: "Boston, MA / Lausanne, CH"
   links:
     - label: "CV"
