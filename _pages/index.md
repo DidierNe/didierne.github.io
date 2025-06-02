@@ -90,7 +90,6 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 *Master in Robotics (2022–2025, in progress)*  
 *Bachelor in Mechanical engineering (2018–2022)*
 
----
 
 Academical Contact:  
 - Harvard: [dneuenschwander@meei.harvard.edu](mailto:dneuenschwander@meei.harvard.edu)  
