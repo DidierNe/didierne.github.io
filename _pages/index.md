@@ -11,7 +11,7 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 💼 Open to full-time opportunities starting Fall 2025
 
 
-## 🔬 Experience
+##  Experience
 
 - **Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
   *Feb 2025 – Aug 2025, Boston, USA*  
@@ -35,12 +35,9 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 ## Selected Projects
 
 - ### Visual Field Denoising (Master Thesis)  
-Ongoing research project at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/), focused on unsupervised and semi-supervised learning to denoise sparse clinical signals.
-
-The goal is to improve visual field (VF) quality by suppressing structured noise and learning meaningful representations through a multimodal deep learning pipeline.
-
-Evaluation focuses on reconstruction fidelity, robust regression metrics, and longitudinal consistency with anatomical structures.
-
+Ongoing research project at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/), focused on unsupervised and semi-supervised learning to denoise sparse clinical signals.  \
+The goal is to improve visual field (VF) quality by suppressing structured noise and learning meaningful representations through a multimodal deep learning pipeline.  \
+Evaluation focuses on reconstruction fidelity, robust regression metrics, and longitudinal consistency with anatomical structures.  \
 *Research in progress — models and evaluation pipelines are actively under development.*
 
 
@@ -74,7 +71,7 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 **Skills:** C++/Qt UI, electronics, control algorithms.
 
 
-## 🔧 Other Projects
+##  Other Projects
 - **Hate Speech Detection**: Fine-tuned DistilBERT on multilingual datasets.  
   [📄 Read Report](/assets/files/EE559_Group_27_Mini_Project.pdf){:target="_blank"} &nbsp;&nbsp; [📊 View Poster](/assets/files/EE559_poster_group_27.pptx){:target="_blank"}
 - **Meteo Prediction**: Vision Transformer trained on outdoor camera feeds to predict weather patterns.
@@ -84,7 +81,7 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 
 
 
-## 🎓 Education
+##  Education
 
 **EPFL – École Polytechnique Fédérale de Lausanne**  
 *Master in Robotics (2022–2025, in progress)*  
