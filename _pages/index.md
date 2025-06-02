@@ -34,7 +34,7 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 
 ## Selected Projects
 
-### Visual Field Denoising (Master Thesis)  
+- ### Visual Field Denoising (Master Thesis)  
 Ongoing research project at [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/), focused on unsupervised and semi-supervised learning to denoise sparse clinical signals.
 
 The goal is to improve visual field (VF) quality by suppressing structured noise and learning meaningful representations through a multimodal deep learning pipeline.
@@ -44,9 +44,9 @@ Evaluation focuses on reconstruction fidelity, robust regression metrics, and lo
 *Research in progress — models and evaluation pipelines are actively under development.*
 
 
----
 
-### Salamander Locomotion Setup  
+
+- ### Salamander Locomotion Setup  
 Developed a waterproof experimental setup to record ground reaction forces during amphibious locomotion of salamanders in 3D.  
 *Master’s Semester Project (10 ECTS, grade 6/6)*  
 **Skills:** Embedded systems, data acquisition, hardware prototyping.
@@ -57,7 +57,7 @@ Developed a waterproof experimental setup to record ground reaction forces durin
 
 
 
-### Mini-Segway Robot (Bachelor Project)  
+- ### Mini-Segway Robot (Bachelor Project)  
 Built a self-balancing two-wheeled robot from scratch with a 4-person team.  
 **Contributions:** Control system design and electronics integration.  
 *Grade: 5.75 / 6 – 5 ECTS*  
@@ -68,7 +68,7 @@ Built a self-balancing two-wheeled robot from scratch with a 4-person team.
 </p>
 
 
-### Microrobot Tendon Control  
+- ### Microrobot Tendon Control  
 Designed a control interface for a tendon-driven microrobot navigating the brain.  
 *Master’s Semester Project (10 ECTS, grade 5.75/6)*  
 **Skills:** C++/Qt UI, electronics, control algorithms.
@@ -82,7 +82,7 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 - **Gait Analysis**: Compared gait patterns using EMG & kinematic data *(4 ECTS, grade 5.5/6)*.
 - **Sudoku Solver**: Program solving sudoku puzzles from images using Matlab, LabVIEW, and C *(3 ECTS, grade 5.75/6)*.
 
----
+
 
 ## 🎓 Education
 
