@@ -13,15 +13,21 @@ EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-w
 
 ## 🔬 Experience
 
-**Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
-*Feb 2025 – Aug 2025, Boston, USA*  
-Master’s thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.  
-Also contributing to collaborative lab projects on medical LLMs and augmented reality (Meta/Aria glasses), with a focus on data preparation and experimental support.
+- **Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
+  *Feb 2025 – Aug 2025, Boston, USA*  
+  Master’s thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.  
+  Also contributing to collaborative lab projects on medical LLMs and augmented reality (Meta/Aria glasses), with a focus on data preparation and experimental support.
 
-**Data Science & Applied Mathematics Intern @ Rolex SA**  
-*Aug 2024 - Feb 2025, Bienne, Switzerland*  
-Worked on computer vision in a highly confidential industrial setting.  
-Focused on data preprocessing and model design under strict privacy and security constraints.
+- **Data Science & Applied Mathematics Intern @ Rolex SA**  
+  *Aug 2024 – Feb 2025, Bienne, Switzerland*  
+  Worked on computer vision in a highly confidential industrial setting.  
+  Focused on data preprocessing and model design under strict privacy and security constraints.
+
+- **Teaching Assistant — Computational Motor Control @ EPFL (BioRob Lab)**  
+  *Feb 2024 – July 2024, Lausanne, Switzerland*  
+  Assisted Master’s students in a course led by Prof. Auke Ijspeert.  
+  Supported weekly exercises and final projects on neural CPGs and locomotor control in Python.
+
 
 
 
