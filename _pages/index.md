@@ -50,7 +50,7 @@ Developed a waterproof experimental setup to record ground reaction forces durin
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="/assets/images/pds_biorob.jpg" alt="Salamander setup" width="300"/>
   <video width="300" controls>
-    <source src="/assets/images/salamander_demo.mov" type="video/mov">
+    <source src="/assets/images/salamander_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
