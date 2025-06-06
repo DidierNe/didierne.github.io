@@ -71,7 +71,7 @@ Built a self-balancing two-wheeled robot from scratch with a 4-person team.
     <source src="/assets/images/segway_video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
+</div>
 
 
 - ### Microrobot Tendon Control  
