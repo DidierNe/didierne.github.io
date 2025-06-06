@@ -49,7 +49,7 @@ Developed a waterproof experimental setup to record ground reaction forces durin
 **Skills:** Embedded systems, data acquisition, hardware prototyping.
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="/assets/images/pds_biorob.jpg" alt="Salamander setup" width="300"/>
-  <video width="250" height="400" controls>
+  <video width="250" height="400" autoplay muted loop playsinline>
     <source src="/assets/images/salamander_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
@@ -67,12 +67,11 @@ Built a self-balancing two-wheeled robot from scratch with a 4-person team.
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
-   <video width="250" height="400" controls>
+  <video width="250" height="400" autoplay muted loop playsinline>
     <source src="/assets/images/segway_video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
-
 
 - ### Microrobot Tendon Control  
 Designed a control interface for a tendon-driven microrobot navigating the brain.  
