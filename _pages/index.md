@@ -64,8 +64,13 @@ Built a self-balancing two-wheeled robot from scratch with a 4-person team.
 *Bachelor Project (Grade: 5.75 / 6 – 5 ECTS)*  
 *The robot was able to autonomously stand and balance.*
 
-<p align="center">
+
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="/assets/images/segway_complete.jpg" alt="Mini Segway robot" width="300"/>
+   <video width="250" height="400" controls>
+    <source src="/assets/images/segway_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 
