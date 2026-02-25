@@ -93,12 +93,10 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 
 
 
-##  Education
+## Education
 
 **EPFL – École Polytechnique Fédérale de Lausanne**  
-*Master in Robotics (2022–2025, in progress)*  
-*Bachelor in Mechanical engineering (2018–2022)*
-
-
+*MSc in Robotics (2023–2025)*  
+*BSc in Mechanical Engineering (2018–2022)*
 
 _Last updated: {{ "now" | date: "%B %Y" }}_
