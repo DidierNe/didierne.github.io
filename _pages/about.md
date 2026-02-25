@@ -17,7 +17,3 @@ I completed my military service in Switzerland as an artillery fire direction so
 I’m fluent in French (native), confident in English (C1), and conversational in German (B1).
 
 📫 *Feel free to reach out if you’d like to connect or collaborate!*
-
-Academical Contact:  
-- Harvard: [dneuenschwander@meei.harvard.edu](mailto:dneuenschwander@meei.harvard.edu)  
-- EPFL: [didier.neuenschwander@epfl.ch](mailto:didier.neuenschwander@epfl.ch)
