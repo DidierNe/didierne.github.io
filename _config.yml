@@ -1,8 +1,8 @@
 title: Didier Neuenschwander
 email: neuenschwander.didier@gmail.com
 description: >-
-  Robotics engineer – Harvard Ophthalmology | EPFL graduate.
-  Specializing in computer vision, deep learning, and medical imaging.
+  Robotics & Computer Vision Engineer (EPFL MSc).
+  Specializing in 3D vision, deep learning, and robotic systems for medical and industrial applications.
 
 github_username: DidierNe
 minimal_mistakes_skin: dark
@@ -34,18 +34,15 @@ collections:
 author:
   name   : "Didier Neuenschwander"
   avatar : "/assets/images/profile.jpg"
-  bio: "Robotics engineer focused on computer vision and real-world challenges. 💼 Open to full-time opportunities starting Fall 2025."
-  location: "Boston, MA / Lausanne, CH"
+  bio: "Robotics & Computer Vision Engineer | 3D Vision, Deep Learning, ROS2 | Medical & Industrial Robotics."
+  location: "Switzerland"
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-alt"
-      url: "/assets/CV_DN_2025_june.pdf"
+      url: "/assets/CV_Didier_fr_feb.pdf"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/didier-neuenschwander-501a15291/"
-    - label: "HMS Lab Bio"
-      icon: "fas fa-fw fa-university"
-      url: "https://wang.hms.harvard.edu/team/didier-neuenschwander/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DidierNe"
@@ -61,9 +58,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/didier-neuenschwander-501a15291/"
-    - label: "Harvard Profile"
-      icon: "fas fa-fw fa-university"
-      url: "https://wang.hms.harvard.edu/team/didier-neuenschwander/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DidierNe"
@@ -76,7 +70,6 @@ exclude:
   - _pages/tag-archive.md
   - _pages/year-archive.md
   - _posts
-    
 
 defaults:
   - scope:
@@ -85,9 +78,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-
-
 
 nav:
   - title: "About"
