@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-I’m a Swiss engineering student from the Nord Vaudois region, currently completing my Master’s in Robotics at EPFL. My academic interests lie in computer vision and AI, especially when applied to real-world challenges that can have concrete impact — such as in healthcare.
+I’m a Swiss engineering from the Nord Vaudois region. My academic interests lie in computer vision and AI, especially when applied to real-world challenges that can have concrete impact — such as in healthcare.
 
 I deeply enjoy sharing knowledge. From 2021 to 2024, I supported a private organization assisting vocational trainees, guiding a small group of four youths in electronics and project work. It was a rewarding opportunity to help others grow while reinforcing my own skills through teaching.
 
