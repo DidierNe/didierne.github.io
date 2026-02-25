@@ -5,29 +5,33 @@ permalink: /
 author_profile: true
 ---
 
-Robotics engineer graduating in Sept. 2025 — currently completing my Master’s thesis at the [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/)  
-EPFL graduate-to-be, passionate about deep learning, medical imaging, and real-world impact.
+Robotics Engineer (EPFL MSc)  
+3D Vision • Deep Learning • ROS2 • Industrial & Medical Robotics  
 
-💼 Open to full-time opportunities starting Fall 2025
+I build robust AI-driven systems that operate in real-world environments, from surgical navigation to high-precision manufacturing.
 
+---
 
-##  Experience
+## Experience
 
-- **Harvard Medical School — Researcher @ Ophthalmology AI Lab**  
+- **Research Engineer — Neuro Robotics @ ARTORG Center, University of Bern**  
+  *Feb 2026 – Present, Switzerland*  
+  Developing real-time 3D computer vision pipelines for neurosurgical navigation.  
+  Integrating robotic and imaging systems using ROS2 for intra-operative surface reconstruction.
+
+- **Researcher — Harvard Medical School, Ophthalmology AI Lab**  
   *Feb 2025 – Aug 2025, Boston, USA*  
-  Master’s thesis on visual field denoising using multi-module deep learning networks for glaucoma diagnosis.  
-  Also contributing to collaborative lab projects on medical LLMs and augmented reality (Meta/Aria glasses), with a focus on data preparation and experimental support.
+  Master’s thesis on multimodal deep learning for visual field denoising in glaucoma.  
+  Designed semi-supervised training strategies to improve longitudinal signal consistency.
 
 - **Data Science & Applied Mathematics Intern @ Rolex SA**  
-  *Aug 2024 – Feb 2025, Bienne, Switzerland*  
-  Worked on computer vision in a highly confidential industrial setting.  
-  Focused on data preprocessing and model design under strict privacy and security constraints.
+  *Aug 2024 – Jan 2025, Bienne, Switzerland*  
+  Developed computer vision solutions for industrial inspection in high-precision manufacturing.  
+  Contributed to data pipeline design and deployment-oriented ML workflows.
 
 - **Teaching Assistant — Computational Motor Control @ EPFL (BioRob Lab)**  
   *Feb 2024 – July 2024, Lausanne, Switzerland*  
-  Assisted Master’s students in a course led by Prof. Auke Ijspeert.  
-  Supported weekly exercises and final projects on neural CPGs and locomotor control in Python.
-
+  Supported Master’s-level projects on neural control models (CPGs) using Python and MuJoCo.
 
 
 
@@ -96,8 +100,5 @@ Designed a control interface for a tendon-driven microrobot navigating the brain
 *Bachelor in Mechanical engineering (2018–2022)*
 
 
-Academical Contact:  
-- Harvard: [dneuenschwander@meei.harvard.edu](mailto:dneuenschwander@meei.harvard.edu)  
-- EPFL: [didier.neuenschwander@epfl.ch](mailto:didier.neuenschwander@epfl.ch)
 
 _Last updated: {{ "now" | date: "%B %Y" }}_
